@@ -1,0 +1,161 @@
+*
+{
+	margin:0 auto;
+padding:0;
+border:0;
+
+}
+
+
+/* #3b9a80 */
+
+input
+{
+		font:12px  "Century Gothic";
+padding:2px;
+	border-radius: 5px;
+}
+select
+{
+		font:12px  "Century Gothic";
+padding:2px;
+	border-radius: 5px;
+}
+.adm
+{
+	font:18px  "Century Gothic";
+
+	background:#3b9a80;
+	text-align:center;
+}
+.osn
+{
+font:10px  "Century Gothic";
+
+max-width:1024px; 
+margin: 0 auto; 
+background:#3b9a80;
+
+text-align:center;
+}
+.red
+{
+max-width:1024px; 
+margin: 0 auto; 
+background:#3b9a80;
+font:14px  "Century Gothic";
+
+text-align:center;
+}
+body
+{background:#3b9a80;
+background-size: 100%; 
+
+	margin: 10px;
+}
+img
+{
+	border-radius:10px;
+ text-align:center}
+#tr
+{
+	color:#fff;
+	font-weight:bold;
+}
+.header
+{background:#FFE4E1;
+
+}
+#udred
+{
+padding:5px;
+background-color:#3b9a80; 
+border-radius:10px;
+text-align:center;
+border:1px solid #000000;
+}
+td
+{
+	
+	padding:8px;
+background-color:#87CCB9;
+border-radius:10px;
+}
+.class_exit > a
+{
+	display: inline-block;
+	text-decoration: none;
+ background:#7A18537A1853;
+} 
+
+#zag {
+	
+text-align:left;
+	color: #7A1853;
+	font:35px "Century Gothic";
+}	
+.class_menu1 {
+	text-align: center;
+	font:26px "Century Gothic";
+
+	display: inline;
+}
+#adding
+{	font:16px "Century Gothic";
+
+	padding:5px;
+}
+.find
+{
+margin:15px;
+padding:5px;
+background-color:#87CCB9;
+}
+.class_menu1 a {
+    text-decoration: none;
+    font-size: 20px;
+    color:#7A1853;
+}
+a:hover {
+    background: #14664F;
+	display: inline-block;
+	color:#b9468c;
+    text-decoration: none;
+}
+.class_menu1 ul {
+    list-style: none;
+	padding:10px;
+	position:relative;
+	display: inline;
+	bottom:10px;
+}
+.class_menu1 li {
+    display: inline;
+	padding:10px;
+position:relative;
+}
+
+.class_menu1 .class_menu2 {
+	  background: #14664F;
+	color: white; 
+}
+#exit
+{
+	color: #7A1853;
+	font:16px "Century Gothic";
+}
+
+.div_head
+{
+
+}
+.footer
+{
+	
+text-align:right;
+}
+
+.add
+{text-align:left;
+	font:14px "Century Gothic";
+}
